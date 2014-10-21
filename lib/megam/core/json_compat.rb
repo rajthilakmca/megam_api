@@ -41,6 +41,8 @@ module Megam
     MEGAM_DOMAIN                  = "Megam::Domains".freeze
     MEGAM_ASSEMBLIES              = "Megam::Assemblies".freeze
     MEGAM_ASSEMBLIESCOLLECTION    = "Megam::AssembliesCollection".freeze
+    MEGAM_APPREQUEST              = "Megam::AppRequest".freeze
+    MEGAM_APPREQUESTCOLLECTION    = "Megam::AppRequestCollection".freeze
 
     MEGAM_PREDEF                  = "Megam::Predef".freeze
     MEGAM_PREDEFCOLLECTION        = "Megam::PredefCollection".freeze
