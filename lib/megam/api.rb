@@ -29,6 +29,8 @@ require "megam/api/domains"
 require "megam/api/csars"
 require "megam/api/assemblies"
 require "megam/api/app_requests"
+require "megam/api/assembly"
+require "megam/api/components"
 
 require "megam/core/server_api"
 require "megam/core/config"
@@ -60,6 +62,11 @@ require "megam/core/csar_collection"
 require "megam/core/konipai"
 require "megam/core/app_request"
 require "megam/core/app_request_collection"
+require "megam/core/assembly"
+require "megam/core/assembly_collection"
+require "megam/core/components"
+require "megam/core/components_collection"
+
 
 
 
